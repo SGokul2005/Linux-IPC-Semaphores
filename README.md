@@ -108,15 +108,18 @@ if(NUM_LOOPS>=10)    {
     }
     return 0;}
 
+~~~
 
 
 ## OUTPUT
 $ ./sem.o 
-![image](https://github.com/SGokul2005/Linux-IPC-Semaphores/assets/147121825/84902c8c-c9af-47be-bc76-d66ead18443a)
+![image](https://github.com/SGokul2005/Linux-IPC-Semaphores/assets/147121825/a1600738-e362-44c1-9683-37c2032c200b)
+
 
 
 $ ipcs
-![image](https://github.com/SGokul2005/Linux-IPC-Semaphores/assets/147121825/ebf17753-7bac-4c9d-8b07-cd49e4a800d8)
+![image](https://github.com/SGokul2005/Linux-IPC-Semaphores/assets/147121825/f7a8f5fe-6c88-404c-873c-ea6eb2896904)
+
 
 
 
